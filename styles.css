@@ -42,18 +42,6 @@ div.feed p{
     padding: 12px;
 }
     
-.firstPh{
-    background-color: white;
-}
-
-.secondPh{
-    background-color: white;
-}
-
-.thirdPh{
-    background-color: white;
-}
-
-.fourthPh{
+#Ph{
     background-color: white;
 }
